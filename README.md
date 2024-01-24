@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ErrolFrancois
 - 👀 I’m interested in front end developing
-- 🌱 I’m currently learning Meta front-end developer
+- 🌱 I have completed a Meta front-end developer course
 - 💞️ I’m looking to collaborate on anyone working on a project that can help me learn more.
 - 📫 How to reach me: Drop a message here on github or at errolfrancois@gmail.com.
 
